@@ -18,7 +18,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 # Requirements
 ## Data Modeling (10 points)
 - Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
-## Data Engineeing (70 points)
+## Data Engineering (70 points)
 - All required columns are defined for each table (10 points)
 - Columns are set to the correct data type (10 points)
 - Primary Keys set for each table (10 points)
